@@ -1,0 +1,13 @@
+2025-12-02 16:11:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-02 16:11:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\AppData\Local\Temp\testng-eclipse-1573754627\testng-customsuite.xml
+
+2025-12-02 16:11:27 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-12-02 16:11:30 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
+2025-12-02 16:11:31 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-12-02 16:11:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@783efb48: 61 ms
+2025-12-02 16:11:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@c446b14: 1 ms
+2025-12-02 16:11:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71391b3f: 7 ms
+2025-12-02 16:11:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5aae8eb5: 5 ms
+2025-12-02 16:11:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a29f290: 6 ms
+2025-12-02 16:11:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4bee18dc: 0 ms
