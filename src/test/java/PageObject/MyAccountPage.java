@@ -24,4 +24,8 @@ public class MyAccountPage extends BasePage {
 		}
 	}
 
+	public void clickLogout() {
+		logoutLink.click();
+	}
+
 }

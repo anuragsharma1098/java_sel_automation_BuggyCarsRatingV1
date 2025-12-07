@@ -1,28 +1,16 @@
-2025-12-07 09:52:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  Command line suite
-
-2025-12-07 10:23:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\master.xml"
-2025-12-07 10:23:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anura\Desktop\buggy_cars_rating\master.xml
-
-2025-12-07 10:23:21 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
-2025-12-07 10:23:23 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-2025-12-07 10:23:54 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\master.xml"
-2025-12-07 10:23:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anura\Desktop\buggy_cars_rating\master.xml
-
-2025-12-07 10:23:57 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
-2025-12-07 10:23:59 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-2025-12-07 10:24:21 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\master.xml"
-2025-12-07 10:24:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anura\Desktop\buggy_cars_rating\master.xml
-
-2025-12-07 10:25:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\master.xml"
-2025-12-07 10:25:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anura\Desktop\buggy_cars_rating\master.xml
-
-2025-12-07 10:25:10 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
-2025-12-07 10:25:11 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-2025-12-07 10:25:13 [main] INFO  TestCase.TC002_LoginTest - ***** Starting TC002_LoginTest *****
-2025-12-07 10:25:13 [main] INFO  TestCase.TC002_LoginTest - Clicked on Login button
-2025-12-07 10:25:15 [main] INFO  TestCase.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+2025-12-07 19:11:06 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-12-07 19:11:06 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-07 19:11:08 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-07 19:11:08 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-07 19:11:08 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-07 19:11:18 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-07 19:11:18 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-07 19:11:18 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-07 19:11:29 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-07 19:11:29 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-07 19:11:29 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-07 19:11:39 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-07 19:11:39 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-07 19:11:39 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-07 19:11:49 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-07 19:11:49 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
