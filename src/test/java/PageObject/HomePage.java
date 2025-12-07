@@ -14,7 +14,28 @@ public class HomePage extends BasePage {
 	@FindBy(xpath = "//a[normalize-space()='Register']")
 	WebElement lnkRegister;
 
+	@FindBy(xpath = "//button[normalize-space()='Login']")
+	WebElement lnkLogin;
+
+	@FindBy(xpath = "//input[@name='login']")
+	WebElement txtUsername;
+
+	@FindBy(xpath = "//input[@name='password']")
+	WebElement txtPassword;
+
 	public void clickRegister() {
 		lnkRegister.click();
+	}
+
+	public void clickLogin() {
+		lnkLogin.click();
+	}
+
+	public void setUsername(String username) {
+		txtUsername.sendKeys(username);
+	}
+
+	public void setPassword(String password) {
+		txtPassword.sendKeys(password);
 	}
 }
