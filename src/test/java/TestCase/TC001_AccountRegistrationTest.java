@@ -8,7 +8,7 @@ import PageObject.HomePage;
 import TestBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
-	@Test
+	@Test(groups = { "regression", "master" })
 	public void verifyRegistration() {
 		logger.info("***** Started TC001_AccountRegistrationTest *****");
 		try {

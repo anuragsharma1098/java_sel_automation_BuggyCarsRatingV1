@@ -24,11 +24,11 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
-	public WebDriver driver;
+	public static WebDriver driver;
 	public Logger logger; // Log4j
 	public Properties configProp;
 
-	@BeforeClass
+	@BeforeClass(groups = { "master", "sanity", "regression", "dadadriven" })
 	@Parameters({ "os", "browser" })
 	public void setup(String os, String br) throws FileNotFoundException {
 		FileReader fileReader = new FileReader("./src/test/resources/config.properties");
@@ -63,7 +63,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 	}
 
-	@AfterClass
+	@AfterClass(groups = { "master", "sanity", "regression", "dadadriven" })
 	public void tearDown() {
 		driver.quit();
 	}

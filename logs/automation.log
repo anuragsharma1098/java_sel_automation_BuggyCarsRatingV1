@@ -1,8 +1,9 @@
-2025-12-08 14:47:41 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
-2025-12-08 14:47:42 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
-2025-12-08 14:47:42 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
-2025-12-08 14:47:52 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
-2025-12-08 14:47:52 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
-2025-12-08 14:47:52 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
-2025-12-08 14:48:02 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
-2025-12-08 14:48:02 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-13 18:54:03 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:54:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:54:06 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
+2025-12-13 18:54:07 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-12-13 18:54:09 [main] INFO  TestCase.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-12-13 18:54:10 [main] INFO  TestCase.TC002_LoginTest - Clicked on Login button
+2025-12-13 18:54:11 [main] INFO  TestCase.TC002_LoginTest - ***** Finished TC002_LoginTest *****

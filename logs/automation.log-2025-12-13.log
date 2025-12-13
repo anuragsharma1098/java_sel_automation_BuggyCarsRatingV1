@@ -1,0 +1,57 @@
+2025-12-13 18:39:26 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-13 18:39:26 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-13 18:39:26 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-13 18:39:36 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-13 18:39:36 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-13 18:39:36 [main] INFO  TestCase.TC003_LoginTestDDT - Starting TC003_LoginTestDDT
+2025-12-13 18:39:46 [main] INFO  TestCase.TC003_LoginTestDDT - Login test passed
+2025-12-13 18:39:46 [main] INFO  TestCase.TC003_LoginTestDDT - Finished TC003_LoginTestDDT
+2025-12-13 18:39:58 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:39:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:43:24 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:43:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:43:24 [main] INFO  TestCase.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-12-13 18:43:24 [main] ERROR TestCase.TC002_LoginTest - Error occurred during login: Cannot invoke "java.util.Properties.getProperty(String)" because "this.configProp" is null
+2025-12-13 18:43:24 [main] DEBUG TestCase.TC002_LoginTest - Error details: 
+2025-12-13 18:46:35 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:46:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:46:36 [main] INFO  TestCase.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-12-13 18:46:36 [main] ERROR TestCase.TC002_LoginTest - Error occurred during login: Cannot invoke "java.util.Properties.getProperty(String)" because "this.configProp" is null
+2025-12-13 18:46:36 [main] DEBUG TestCase.TC002_LoginTest - Error details: 
+2025-12-13 18:48:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:48:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:48:32 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
+2025-12-13 18:48:32 [main] ERROR TestCase.TC001_AccountRegistrationTest - Error occurred during registration: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-12-13 18:48:32 [main] DEBUG TestCase.TC001_AccountRegistrationTest - Error details: 
+2025-12-13 18:50:07 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:50:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:50:07 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
+2025-12-13 18:50:07 [main] ERROR TestCase.TC001_AccountRegistrationTest - Error occurred during registration: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-12-13 18:50:07 [main] DEBUG TestCase.TC001_AccountRegistrationTest - Error details: 
+2025-12-13 18:52:01 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:52:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:52:04 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
+2025-12-13 18:52:17 [main] INFO  TestCase.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-12-13 18:52:17 [main] INFO  TestCase.TC002_LoginTest - Clicked on Login button
+2025-12-13 18:52:20 [main] INFO  TestCase.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+2025-12-13 18:53:38 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml"
+2025-12-13 18:53:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anura\Desktop\buggy_cars_rating\grouping.xml
+
+2025-12-13 18:53:41 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Started TC001_AccountRegistrationTest *****
+2025-12-13 18:53:43 [main] INFO  TestCase.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+2025-12-13 18:53:45 [main] INFO  TestCase.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-12-13 18:53:45 [main] INFO  TestCase.TC002_LoginTest - Clicked on Login button
+2025-12-13 18:53:48 [main] INFO  TestCase.TC002_LoginTest - ***** Finished TC002_LoginTest *****

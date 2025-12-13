@@ -8,7 +8,7 @@ import PageObject.HomePage;
 import PageObject.MyAccountPage;
 
 public class TC002_LoginTest extends BaseClass {
-	@Test
+	@Test(groups = { "sanity", "master" })
 	public void verifyLogin() {
 		logger.info("***** Starting TC002_LoginTest *****");
 		try {

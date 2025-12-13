@@ -38,13 +38,13 @@ public class ExtentReportUtility implements ITestListener {
 		repName = "Test_Report_" + timeStamp + ".html";
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);// specify location of the report
 
-		sparkReporter.config().setDocumentTitle("OpenCart Automation Report"); // Title of report
-		sparkReporter.config().setReportName("OpenCart Functional Testing"); // name of the report
+		sparkReporter.config().setDocumentTitle("BuggyCarsRating Automation Report"); // Title of report
+		sparkReporter.config().setReportName("BuggyCarsRating Functional Testing"); // name of the report
 		sparkReporter.config().setTheme(Theme.DARK);
 
 		extent = new ExtentReports();
 		extent.attachReporter(sparkReporter);
-		extent.setSystemInfo("Application", "OpenCart");
+		extent.setSystemInfo("Application", "BuggyCarsRating");
 		extent.setSystemInfo("Module", "Admin");
 		extent.setSystemInfo("Sub Module", "Customers");
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
