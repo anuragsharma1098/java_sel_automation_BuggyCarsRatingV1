@@ -52,6 +52,10 @@ public class BaseClass {
 
 				capabilities.setPlatform(Platform.WIN11);
 				// capabilities.setBrowserName()
+			} else if (os.equalsIgnoreCase("linux")) {
+
+				capabilities.setPlatform(Platform.LINUX);
+				// capabilities.setBrowserName()
 			} else if (os.equalsIgnoreCase("mac")) {
 
 				capabilities.setPlatform(Platform.MAC);
