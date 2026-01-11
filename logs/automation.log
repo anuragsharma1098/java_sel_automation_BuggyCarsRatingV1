@@ -27,3 +27,5 @@
 2025-12-21 21:49:33 [TestNG-tests-2] WARN  org.apache.poi.openxml4j.opc.OPCPackage - Unable to call close() on a package that hasn't been fully opened yet
 2025-12-21 21:49:57 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\master.xml"
 2025-12-21 21:49:58 [TestNG-tests-2] WARN  org.apache.poi.openxml4j.opc.OPCPackage - Unable to call close() on a package that hasn't been fully opened yet
+2026-01-11 21:54:18 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anura\Desktop\buggy_cars_rating\master.xml"
+2026-01-11 21:54:20 [TestNG-tests-1] WARN  org.apache.poi.openxml4j.opc.OPCPackage - Unable to call close() on a package that hasn't been fully opened yet
