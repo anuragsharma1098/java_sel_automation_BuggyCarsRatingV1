@@ -1,2 +1,2 @@
-cd C:\Users\anura\Desktop\buggy_cars_rating
+cd ..\buggy_cars_rating
 mvn test
